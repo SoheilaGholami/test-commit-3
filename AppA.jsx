@@ -1,11 +1,5 @@
-
 const AppA = () => {
-  return (
-    <>
-    <div>app a changes by Hadoo</div>
-    <div>app a chaged by Sohi</div>
-    </>
-  )
-}
+  return <>start</>;
+};
 
-export default AppA
+export default AppA;

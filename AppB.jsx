@@ -1,8 +1,5 @@
-
 function AppB() {
-  return (
-    <div>app b changes by Hadoo</div>
-  )
+  return <>start</>;
 }
 
-export default AppB
+export default AppB;
