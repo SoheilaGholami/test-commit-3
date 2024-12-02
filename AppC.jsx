@@ -1,7 +1,7 @@
 
 function AppC() {
   return (
-    <div>app c</div>
+    <div>app c changes by Hadoo</div>
   )
 }
 
