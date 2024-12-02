@@ -1,7 +1,7 @@
 
 const AppA = () => {
   return (
-    <div>app a</div>
+    <div>app a changes by Hadoo</div>
   )
 }
 
