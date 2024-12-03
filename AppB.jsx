@@ -1,5 +1,5 @@
 function AppB() {
-  return <>sohi changed</>;
+
   return <>hadoo changed </>;
 }
 
