@@ -1,5 +1,5 @@
 function AppB() {
-  return <>start</>;
+  return <>sohi changed</>;
 }
 
 export default AppB;
